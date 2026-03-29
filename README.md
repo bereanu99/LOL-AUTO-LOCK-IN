@@ -4,10 +4,6 @@
 > *Because you deserve to make a sandwich in peace.*
 
 ---
-Download `Auto Lock-in.exe` from the [latest release](https://github.com/bereanu99/lol-auto-champ/releases/latest)
-
-<img width="947" height="1085" alt="image" src="https://github.com/user-attachments/assets/92c9600e-997a-475c-8ea5-5b51754f99b5" />
-
 
 ## The Problem
 
@@ -34,6 +30,8 @@ Sound familiar? Yeah. We've all been there.
 You just set it up once, go live your life, and come back to a loaded game screen.
 
 ---
+
+<img width="947" height="1085" alt="image" src="https://github.com/user-attachments/assets/92c9600e-997a-475c-8ea5-5b51754f99b5" />
 
 ## Setup (No Python, just download and run)
 
