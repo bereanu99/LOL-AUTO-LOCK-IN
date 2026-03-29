@@ -35,7 +35,7 @@ You just set it up once, go live your life, and come back to a loaded game scree
 
 ## Setup (No Python, just download and run)
 
-1. Download `Auto Lock-in.exe` from the [latest release](https://github.com/bereanu99/lol-auto-champ/releases/latest)
+1. Download `Auto Lock-in.exe` from the [latest release](https://github.com/bereanu99/LOL-AUTO-LOCK-IN/releases/tag/V1.0.0)
 2. Run it
 3. Open League of Legends
 4. Go make that sandwich
