@@ -4,6 +4,7 @@
 > *Because you deserve to make a sandwich in peace.*
 
 ---
+Download `Auto Lock-in.exe` from the [latest release](https://github.com/bereanu99/lol-auto-champ/releases/latest)
 
 <img width="947" height="1085" alt="image" src="https://github.com/user-attachments/assets/92c9600e-997a-475c-8ea5-5b51754f99b5" />
 
